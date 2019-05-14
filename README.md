@@ -1,5 +1,4 @@
-# Variations_In_Hospital_Charges_In_USA
-# Variations in Hospital Charges in USA and Factors explaining those Variations 
+# Variations in Hospital Charge in USA and Factors explaining those Variations 
 
 With an aim to understand what explains variations in hospital charge for similar or same procedure, Medicare outpatient data
 is combined with hospital information data obtained from CMS web and visualized the charge data by state and by procedures
